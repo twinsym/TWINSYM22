@@ -1,15 +1,15 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
-    "website":   "https://aquabot.ga/",
-    "success_url": "https://aquabot.ga",
+    "name": "TWINSYM-BOT",
+    "description": "TWINSYM  - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://ibb.co/6mxBKNN/twinsym-bot.jpg",
+    "keywords": ["whatsapp", "TWINSYM", "twins", "bot", "ym" , "YM" ],
+    "repository": "https://github.com/twinsym/TWINSYM-BOT",
+    "website":   "https://www.instagram.com/elpotlood/",
+    "success_url": "https://www.instagram.com/elpotlood/",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
-            "description": "",
+            "TWINSYM_SESSION": {
+            "description": "عنداك تبارطاجيه مع شي واحد 😑",
             "required": true
              },
             "NO_ONLINE": {
@@ -32,13 +32,13 @@
             "required": true
              },
             "OWN_NAME": {
-            "description": "",
-            "value": "Sanuwa Official" ,
+            "description": "TWINSYM",
+            "value": "يونس أمرير و مهدي أيت الحاج" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "212710076108" ,
             "required": true
              },
        
@@ -50,12 +50,12 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "🎊OUR INSTAGRAM🎊" ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://www.instagram.com/elpotlood/" ,
             "required": true
       },
      "URL_2NAME": {
@@ -65,12 +65,12 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://github.com/twinsym/TWINSYM-BOT" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 TWINSYM" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -79,8 +79,8 @@
             "required": true
       },
        "CAPTION": {
-            "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "description": "جميع الحقوق غير محفوظة لدينا هههه",
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 AMARIR & AIT LHAJ" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -105,42 +105,42 @@
       },
       "DEPLOYER": {
             "description": "",
-            "value": "AQUA USER" ,
+            "value": "TWINSYM-BOT" ,
             "required": true
       },
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥مرحبا دبا توجد المعلم بالخف ...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*📤...ها هي وجدات بغيتها أمبورطي و لا تديها معك ههه هي هي * عندك أخويا الموسيقى راه حرام لا نتحمل أوزارك يوم القيامة ❤️ ...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥ها الفيديو كيتقلا صبر عليه يطيب...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤هاك أخويا عندك تنسى ما تدعمنا راه غي دراوش حنا ...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*📥ها الملف دير فيه شي 20 درهم باش يتقبل ...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📤ها هو تقبل شفتي كلشي عندنا بالرشاوي 😂...*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "AMARIR & AIT LHAJ" ,
             "required": true
       },
           "WORK_TYPE": {
